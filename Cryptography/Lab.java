@@ -305,7 +305,6 @@ public class Lab {
 		for(int i = 0 ; i < pos; i++) {
 			right[i] =  full[ pos + i];
 		}
-		
 		return right;
 	}
 	
