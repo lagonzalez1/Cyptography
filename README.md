@@ -1,5 +1,5 @@
 # SDES implementation in Java.
-Simnplified Data Encryption Standard
+Simplified Data Encryption Standard
 Our variation uses 8 bits instead of typical 64 bits.
 Keys.class generates subkeys for each round of scrambling/encryption.
 
